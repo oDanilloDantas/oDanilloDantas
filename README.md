@@ -4,7 +4,7 @@
   <img
     width="100%"
     alt="hero image"
-    src="https://media.licdn.com/dms/image/v2/D4D16AQHCZn0OTYUC8g/profile-displaybackgroundimage-shrink_200_800/B4DZm2EnCpGQAU-/0/1759696288633?e=1775692800&v=beta&t=LVltA_4vy3pyMZouc0Hj4xa3EporSdo3G4T3E2CS-NM"
+    src="https://yt3.googleusercontent.com/lTW0zvO_b2o4Iv_UuTjT5_uUzUePoIoVOEtac9f-SCxyqk3txhG193-We0iNPDY_Ot8-0BFy=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   />
 </div>
 
