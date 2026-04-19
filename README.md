@@ -71,7 +71,7 @@
   <a href="https://www.instagram.com/oDanilloDantas/" target="_blank" rel="noreferrer">
     <img alt="Instagram Pessoal" src="https://img.shields.io/badge/Instagram%20Pessoal-833AB4?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/danillodantas.ia/" target="_blank" rel="noreferrer">
+  <a href="https://www.instagram.com/DanilloDantas.IA/" target="_blank" rel="noreferrer">
     <img alt="Instagram Profissional" src="https://img.shields.io/badge/Instagram%20Profissional-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
