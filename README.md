@@ -68,17 +68,22 @@
 <h3 align="center">Connect with me</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/oDanilloDantas/" target="_blank" rel="noreferrer">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/oDanilloDantas" target="_blank" rel="noreferrer">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
   <a href="https://www.instagram.com/oDanilloDantas/" target="_blank" rel="noreferrer">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img alt="Instagram Pessoal" src="https://img.shields.io/badge/Instagram%20Pessoal-833AB4?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/danillodantas.ia/" target="_blank" rel="noreferrer">
+    <img alt="Instagram Profissional" src="https://img.shields.io/badge/Instagram%20Profissional-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/oDanilloDantas/" target="_blank" rel="noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/intent/follow?screen_name=oDanilloDantas" target="_blank" rel="noreferrer">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-14171A?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/oDanilloDantas/" target="_blank" rel="noreferrer">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </div>
 
