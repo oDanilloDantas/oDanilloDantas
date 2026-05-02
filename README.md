@@ -38,7 +38,7 @@
 <h3 align="center">Check my Git City profile 👇🏻</h3>
 
 <div align="center">
-  <a href="[https://www.instagram.com/oDanilloDantas/](https://www.thegitcity.com/?user=odanillodantas)" target="_blank" rel="noreferrer">
+  <a href="https://www.thegitcity.com/?user=odanillodantas" target="_blank" rel="noreferrer">
     <img alt="Git City Profile" src="https://img.shields.io/badge/Git%20City%20Profile-FC6D26?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
