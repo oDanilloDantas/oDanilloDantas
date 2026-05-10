@@ -41,7 +41,7 @@
   <a href="https://www.thegitcity.com/?user=odanillodantas" target="_blank" rel="noreferrer">
     <img alt="Git City Profile" src="https://img.shields.io/badge/Git%20City%20Profile-FC6D26?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</div>
+</div><br />
 
 <div align="left">
   <p><b>AI &amp; Machine Learning</b><br />
