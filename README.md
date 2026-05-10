@@ -95,7 +95,7 @@
   </a>
 </div>
 
-<div align="center">
+<div align="center"><br />
   <a href="https://git.io/typing-svg">
     <img
       alt="thanks for your visit"
